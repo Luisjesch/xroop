@@ -80,3 +80,6 @@ Our software uses a lot of third party libraries as well pre-trained models. The
 ## Documentation
 
 Read the [documenation](https://roop-ai.gitbook.io/roop) for a deep dive.
+
+## CoLab Notebook
+Here's the [Colab Notebook](https://gist.github.com/Luisjesch/465877a583f5aed65dbe39687d46607c) Gist.
